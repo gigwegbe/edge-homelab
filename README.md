@@ -68,7 +68,7 @@ or
 
 
 
-### Future Enhancements
+### Future Enhancements:
 
 - Integrate CI/CD pipelines for automated deployments.
 - Explore edge computing with the Jetson boards.
