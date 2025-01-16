@@ -51,9 +51,9 @@ or
 
 
 ## Power Management: 
-
+- Power Supply 
 ## Networking: 
-
+- Repeater and Hub 
 ## Area of Exploration:
 - Orchestrates e.g Kubernetes, K3s, Microk8s
 - Distributed Systems
