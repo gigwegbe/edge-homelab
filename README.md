@@ -41,12 +41,20 @@ Machine Learning
 
 or 
 
-| Device         | Number | Use Case                               |
-|----------------|--------|----------------------------------------|
-| Nano 4G        | 4      | GPU-accelerated tasks, ML workloads    |
-| Nano 2G        | 1      | Lightweight services or worker node    |
-| TX2            | 2      | High-performance ML and distributed tasks |
-| Raspberry Pi   | 1      | Kubernetes master node, controller     |
+| Device       | Number | Use Case                                  |
+| ------------ | ------ | ----------------------------------------- |
+| Nano 4G      | 4      | GPU-accelerated tasks, ML workloads       |
+| Nano 2G      | 1      | Lightweight services or worker node       |
+| TX2          | 2      | High-performance ML and distributed tasks |
+| Raspberry Pi | 1      | Kubernetes master node, controller        |
+
+
+## 3D Printed Device Platform: 
+![3D Printed Parts](./assets/3d_parts.jpg)
+- [Nvidia Jetson Nano DIN rail mount](https://www.stlfinder.com/model/nvidia-jetson-nano-din-rail-mount-0GMeNTmN/4430214/)
+- [DIN Rail Development Rig](https://www.thingiverse.com/thing:3433772)
+- [DIN rail mount (8 pts)](https://www.thingiverse.com/thing:3487867)
+- [DIN Rail Stand KIT](https://www.thingiverse.com/thing:3609072)
 
 
 
