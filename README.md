@@ -49,7 +49,7 @@ or
 | Raspberry Pi | 1      | Kubernetes master node, controller        |
 
 
-## 3D Printed Device Platform: 
+## 3D Printed Parts: 
 ![3D Printed Parts](./assets/3d_parts.jpg)
 - [Nvidia Jetson Nano DIN rail mount](https://www.stlfinder.com/model/nvidia-jetson-nano-din-rail-mount-0GMeNTmN/4430214/)
 - [DIN Rail Development Rig](https://www.thingiverse.com/thing:3433772)
