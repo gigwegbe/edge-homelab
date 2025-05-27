@@ -30,3 +30,13 @@ From another device on the same network, try pinging your Jetson Nano using its 
 ```
 ping jetson-nano.local
 ```
+
+Repeat for other devices:
+```
+ ping jetson-tx2
+ ping jetson-nano0.local
+ ping jetson-nano1.local
+ ping jetson-nano2.local
+ ping jetson-nano3.local
+ ping jetson-nano4.local
+```
