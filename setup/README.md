@@ -33,7 +33,7 @@ ping jetson-nano.local
 
 Repeat for other devices:
 ```
- ping jetson-tx2
+ ping jetson-tx2.local
  ping jetson-nano0.local
  ping jetson-nano1.local
  ping jetson-nano2.local
