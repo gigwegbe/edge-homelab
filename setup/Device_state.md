@@ -1,4 +1,6 @@
-Jetson-Nano 
+Jetson-Nano 2GB 
+![Jetson-Nano](../assets/nano-state.png)
+Jetson-Nano 4GB 
 ![Jetson-Nano](../assets/nano-state.png)
 Jetson-TX2
 ![Jetson-TX2](../assets/tx2-state.png)

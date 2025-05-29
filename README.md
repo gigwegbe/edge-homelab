@@ -37,6 +37,7 @@ Machine Learning
 | -------------- | ------------------ | ------------------------------------------ |
 | Master Node    | TX2                | Orchestrates training, aggregates results. |
 | Worker Nodes   | Jetson Nano 4G x4  | Train on data subsets.                     |
+| Worker Nodes   | Jetson Nano 2G x1  | Train on data subsets.                     |
 | Storage Server | TX2 / Raspberry Pi | NAS or object storage.                     |
 
 or 
