@@ -1,5 +1,5 @@
 Jetson-Nano 2GB 
-![Jetson-Nano](../assets/nano-state.png)
+![Jetson-Nano](../assets/nano-state-2g.png)
 Jetson-Nano 4GB 
 ![Jetson-Nano](../assets/nano-state.png)
 Jetson-TX2
