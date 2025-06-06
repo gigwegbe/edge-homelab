@@ -1,6 +1,8 @@
 # Edge Homelab
 Welcome to the Edge  HomeLab project. This project aims to explore basic networking, Kubernetes, distributed systems, and machine learning in a hands-on, practical way.
 
+![Completed1](./assets/01_lite.jpeg)
+![Completed2](./assets/02_lite.jpeg)
 
 #### Project Goals
 
@@ -56,6 +58,7 @@ or
 - [DIN Rail Development Rig](https://www.thingiverse.com/thing:3433772)
 - [DIN rail mount (8 pts)](https://www.thingiverse.com/thing:3487867)
 - [DIN Rail Stand KIT](https://www.thingiverse.com/thing:3609072)
+
 
 
 
