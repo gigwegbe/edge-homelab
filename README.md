@@ -1,8 +1,13 @@
 # Edge Homelab
 Welcome to the Edge  HomeLab project. This project aims to explore basic networking, Kubernetes, distributed systems, and machine learning in a hands-on, practical way.
 
-![Completed1](./assets/01_lite.jpeg)
-![Completed2](./assets/02_lite.jpeg)
+
+![Completed3](./assets/03_lite.jpg)
+
+![Completed4](./assets/04_lite.jpg)
+<!-- ![Completed1](./assets/01_lite.jpeg) -->
+<!-- ![Completed2](./assets/02_lite.jpeg) -->
+
 
 #### Project Goals
 
