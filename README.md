@@ -74,7 +74,7 @@ or
 - Distributed Systems
 - Machine Learning
   - Data Parallelism
-  - Mmodel Parallelism
+  - Model Parallelism
   - Federated Learning
 - Infrastructure as Code(IaC)
 - Network and Communication
