@@ -76,6 +76,7 @@ or
   - Data Parallelism
   - Model Parallelism
   - Federated Learning
+    - Real-World Federated Learning on Edge Devices with NVFLARE - [Link](https://github.com/gigwegbe/nvflare-on-jetson)
 - Infrastructure as Code(IaC)
 - Network and Communication
   - Network Protocols: gRPC and MPI for communication between nodes.
